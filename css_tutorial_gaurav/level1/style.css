@@ -1,0 +1,31 @@
+h1{
+    color:#1E201E;
+}
+
+p{
+    color:#3f321f;
+    line-height: 21px;
+    text-transform: capitalize;
+}
+
+button{
+    color:#153448;
+    background-color: #DFD0B8;
+    border-color: beige;
+}
+body{
+    background-color:#c2edd7 ;
+}
+#heading1{
+    color:green;
+}
+#heading2{
+    color:blue;
+}
+#heading3{
+    color:mediumspringgreen;
+}
+#h1max{
+    text-align: center;
+    text-decoration: underline;
+} 
